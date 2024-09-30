@@ -5,6 +5,8 @@ simplemente se registrará la fecha y un resumen de lo que se ha creado, aunque 
 Es necesario tener en cuenta que el proyecto a realizar es unicamente para la parte de el ADOO, por lo que solamente se van a tener evidencias del roceso y no como tal
 programas o codigos para el proyecto y de esta forma poder comprobar la funcionalidad del proyecto, ya que unicamente se generaran artefactos no programables.
 
+Nos enfocaremos en la parte de *inception* y *elaboración* de el proyecto.
+
 ---
 13-16 Septiembre 2024
 
