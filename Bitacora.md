@@ -2,6 +2,9 @@
 Este documento tiene  la finalidad de funcionar como bitácora para ir señalando los cambios y avances realizados durante el desarrollo del proyecto, en ella, 
 simplemente se registrará la fecha y un resumen de lo que se ha creado, aunque no existan evidencias en el repositorio.
 
+Es necesario tener en cuenta que el proyecto a realizar es unicamente para la parte de el ADOO, por lo que solamente se van a tener evidencias del roceso y no como tal
+programas o codigos para el proyecto y de esta forma poder comprobar la funcionalidad del proyecto, ya que unicamente se generaran artefactos no programables.
+
 ---
 13-16 Septiembre 2024
 
