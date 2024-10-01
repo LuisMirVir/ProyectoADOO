@@ -1,4 +1,4 @@
-# Gestión de Biblioteca
+# Gestión de Biblioteca BiblioTech
 ## Descripción
 Este sistema tiene como objetivo gestionar de manera eficiente los libros y usuarios de una biblioteca.
 Se diseñará en torno a 3 clases principales: Usuario (Ej, Estudiante y bibliotecario), Libro, y Préstamo.
