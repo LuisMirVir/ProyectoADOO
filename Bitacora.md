@@ -25,3 +25,7 @@ Se generó el repositorio en github despues de haber estudiado y aprendido cosas
 Se subió la propuesta de proyecto, PENDIENTE DE APROBACIÓN al repositorio.
 
 Se Creo la bitácora para ir constatando los cambios y avances obtenidos durante el proyecto.
+
+---
+Diagrama de Gantt para la planeación del proyecto 
+[Diagrama de Gant](https://docs.google.com/spreadsheets/d/1Xcqhgwcz1kIMeJJtNfw12pi4Ewt-2plnp11zW5H0CSo/edit?usp=sharing)
