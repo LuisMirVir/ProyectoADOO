@@ -6,7 +6,7 @@ Se diseñará en torno a 3 clases principales: Usuario (Ej, Estudiante y bibliot
 
 ## Clases y Atributos:
 
-### 1. Usuario
+### 1. Usuario {Estudiante o Bibliotecario}
 #### 1.1 Atributos:
 - **nombre**: Nombre completo del usuario.
 - **edad**: Edad del usuario.
