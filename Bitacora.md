@@ -45,3 +45,8 @@ Se generó un inicio de catálogo de casos de uso
 
 Casos de uso del proyecto
 [Hoja con los casos de uso](https://docs.google.com/document/d/1AWval-TtFqC5Wu3j3r3lXO2FV17zrWqh0oRDB_2BRrk/edit?usp=sharing)
+
+---
+2 Octubre 2024
+
+Se realizo la descripción de tres casos de uso
