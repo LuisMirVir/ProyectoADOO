@@ -12,6 +12,7 @@ Se diseñará en torno a 3 clases principales: Usuario (Ej, Estudiante y bibliot
 - **edad**: Edad del usuario.
 - **contacto**: Información de contacto (teléfono, correo electrónico).
 - **idUsuario**: Número identificador único del usuario.
+- **password**: Password elegido por usuario.
 
 #### 1.2 Métodos:
 - **CRUD usuario**
