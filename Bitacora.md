@@ -50,3 +50,8 @@ Casos de uso del proyecto
 2 Octubre 2024
 
 Se realizo la descripción de tres casos de uso
+
+---
+14 Octubre 2024
+
+Se reviso el documento con la sintaxis para el desarrollo adecuado de casos de uso
