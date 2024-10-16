@@ -55,3 +55,10 @@ Se realizo la descripción de tres casos de uso
 14 Octubre 2024
 
 Se reviso el documento con la sintaxis para el desarrollo adecuado de casos de uso
+
+--- 
+16 Octubre 2024
+
+En base a lo arendido y modificado en el documento anterior se procedio a realizar la actualizacion de los casos de uso ya escritos con anterioridad y 
+modificarlos para que cumplieran con las nuevas pautas dispuestas.
+
