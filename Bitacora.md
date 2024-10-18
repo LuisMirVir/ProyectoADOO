@@ -39,9 +39,8 @@ Se generó un inicio de catálogo de casos de uso
 |  CU-01        |       CRUD Estudiante           |
 |  CU-02        |       CRUD Bibliotecario        |
 |  CU-03        |       CRUD Libro                |
-| CU-04         | Buscar libro por ISBN           |
-| CU-05         | Realizar Prestamos de libro     |
-| CU-06         | Devolver Libro                  |
+| CU-04         | Realizar Prestamos de libro     |
+| CU-05         | Devolver Libro                  |
 
 Casos de uso del proyecto
 [Hoja con los casos de uso](https://docs.google.com/document/d/1AWval-TtFqC5Wu3j3r3lXO2FV17zrWqh0oRDB_2BRrk/edit?usp=sharing)
@@ -61,4 +60,9 @@ Se reviso el documento con la sintaxis para el desarrollo adecuado de casos de u
 
 En base a lo arendido y modificado en el documento anterior se procedio a realizar la actualizacion de los casos de uso ya escritos con anterioridad y 
 modificarlos para que cumplieran con las nuevas pautas dispuestas.
+
+---
+17 Octubre 2024
+
+Se realizaron la descripcion de los casos de usso restantes
 
