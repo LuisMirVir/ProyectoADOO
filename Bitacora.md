@@ -35,6 +35,9 @@ Diagrama de Fases para la planeación del proyecto
 ---
 1 Octubre 2024
 
+Inception del proyecto
+[Inception del proyecto](https://docs.google.com/document/d/1XEQQfUm2zQGOCbRWLspc9hInDOv21CmQQpK9UiW-opE/edit?usp=sharing)
+
 Se generó un inicio de catálogo de casos de uso
 
 |       Id      |     Caso de uso       |
@@ -44,14 +47,15 @@ Se generó un inicio de catálogo de casos de uso
 |  CU-03        |       CRUD Libro                |
 | CU-04         | Realizar Prestamos de libro     |
 | CU-05         | Devolver Libro                  |
-
-Casos de uso del proyecto
-[Hoja con los casos de uso](https://docs.google.com/document/d/1AWval-TtFqC5Wu3j3r3lXO2FV17zrWqh0oRDB_2BRrk/edit?usp=sharing)
-
 ---
-2 Octubre 2024
+6 Octubre 2024
 
-Se realizo la descripción de tres casos de uso
+Se inicia el proceso de elaboracion, de manera solo teorica.
+
+Se inicia la primera iteracion de la elaboracion del software.
+
+Artefactos obtenidos para el proceso de elaboracion
+[Hoja con los casos de uso](https://docs.google.com/document/d/1AWval-TtFqC5Wu3j3r3lXO2FV17zrWqh0oRDB_2BRrk/edit?usp=sharing)
 
 ---
 14 Octubre 2024
@@ -68,4 +72,9 @@ modificarlos para que cumplieran con las nuevas pautas dispuestas.
 17 Octubre 2024
 
 Se realizaron la descripcion de los casos de usso restantes
+
+---
+28 Octubre 2024
+
+Inicio de la Segunda iteracion
 
