@@ -30,12 +30,12 @@ Se Creo la bitácora para ir constatando los cambios y avances obtenidos durante
 1 Octubre 2024
 
 Diagrama de Gantt para la planeación del proyecto 
-[Diagrama de Gant](https://docs.google.com/spreadsheets/d/1Xcqhgwcz1kIMeJJtNfw12pi4Ewt-2plnp11zW5H0CSo/edit?usp=sharing)
+[Plan de fase](https://docs.google.com/spreadsheets/d/1Xcqhgwcz1kIMeJJtNfw12pi4Ewt-2plnp11zW5H0CSo/edit?usp=sharing)
 
 Se generó un inicio de catálogo de casos de uso
 
 |       Id      |     Caso de uso       |
-|---------------|-----------------------|
+|:---------------:|:-----------------------:|
 |  CU-01        |       CRUD Estudiante           |
 |  CU-02        |       CRUD Bibliotecario        |
 |  CU-03        |       CRUD Libro                |
