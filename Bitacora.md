@@ -18,7 +18,7 @@ Nos enfocaremos en la parte de *inception* y *elaboración* de el proyecto.
 Se subió la propuesta de proyecto a la platadorma. Pendiente de aprobación por parte del docente.
 
 ---
-30 Septiembre 2024
+22 Septiembre 2024
 
 Se generó el repositorio en github despues de haber estudiado y aprendido cosas referentes a github.
 
@@ -26,11 +26,14 @@ Se subió la propuesta de proyecto, PENDIENTE DE APROBACIÓN al repositorio.
 
 Se Creo la bitácora para ir constatando los cambios y avances obtenidos durante el proyecto.
 
+Se inicia la fase de inception, la cual durara un lapso de 5 semanas.
+
+Diagrama de Fases para la planeación del proyecto 
+[Plan de fase](https://docs.google.com/spreadsheets/d/1Xcqhgwcz1kIMeJJtNfw12pi4Ewt-2plnp11zW5H0CSo/edit?usp=sharing)
+
+
 ---
 1 Octubre 2024
-
-Diagrama de Gantt para la planeación del proyecto 
-[Plan de fase](https://docs.google.com/spreadsheets/d/1Xcqhgwcz1kIMeJJtNfw12pi4Ewt-2plnp11zW5H0CSo/edit?usp=sharing)
 
 Se generó un inicio de catálogo de casos de uso
 
