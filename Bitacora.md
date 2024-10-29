@@ -69,12 +69,14 @@ En base a lo arendido y modificado en el documento anterior se procedio a realiz
 modificarlos para que cumplieran con las nuevas pautas dispuestas.
 
 ---
-17 Octubre 2024
+23 Octubre 2024
 
-Se realizaron la descripcion de los casos de usso restantes
+Se obtuvo retroalimentacion de la iteracion, en ella pudimos observar que los objetivos planteados para esta primera iteracion, se cumlieron de forma rapida sin combenientes, es por ello, que al utilizar una estructura similar para el CRUD Estudiantes y CRUD Libros, se opto por intentar cubrir estos dos casos de uso durante la proxima iteracion, en lugar de solo el CRUD Estudiantes que se tenia planeado, sin embargo, al ser tan parecidos en la estructura, se opto por esta medida.
+
 
 ---
 28 Octubre 2024
 
 Inicio de la Segunda iteracion
 
+Los artefactos obtenidos se van a ir guardadndo en el documento de Hoja con los casos de uso, desctrita en la iteracion anterior
