@@ -82,3 +82,11 @@ Se obtuvo retroalimentacion de la iteracion, en ella pudimos observar que los ob
 Inicio de la Segunda iteracion
 
 Los artefactos obtenidos se van a ir guardadndo en el documento de Hoja con los casos de uso, desctrita en la iteracion anterior
+
+---
+13 Noviembre 2024
+
+Se terminaron de generar el codigo para ambos casos de uso cumpliendo de esta forma con los objetivos planteados para esta iteracion.
+Ademas se han realizado las sugerencias propuestas para mejorar la iteracion 1, y se han desarrollado las pruebas pertinentes de test y de cohesion de el sitema con lo desarrollado en la primer iteracion.
+El sistema sera mostrado el 14 de noviembre a los bibliotecarios para que nos de una retroalimentacion de el sistema y tomar en cuenta sus sugerencias para la siguiente iteracion.
+
