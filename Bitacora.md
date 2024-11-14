@@ -90,3 +90,11 @@ Se terminaron de generar el codigo para ambos casos de uso cumpliendo de esta fo
 Ademas se han realizado las sugerencias propuestas para mejorar la iteracion 1, y se han desarrollado las pruebas pertinentes de test y de cohesion de el sitema con lo desarrollado en la primer iteracion.
 El sistema sera mostrado el 14 de noviembre a los bibliotecarios para que nos de una retroalimentacion de el sistema y tomar en cuenta sus sugerencias para la siguiente iteracion.
 
+---
+14 Noviembre 2024
+
+Se realizao la presentacion de los avances realizados durante la iteracion a el bibliotecario.
+El bibliotecario al realizar las pruebas nos indico que la funcionalidad que se le habia dado se le hizo correcta y facil de utilizar, sin embargo
+el bibliotecario nos indico que nuestro sistema tenia un elemento faltante y que no hemos considerado que es el poder cambiar su password en caso de que se le haya olvidado.
+Al verificar nos dimos cuenta que era verdad y que es necesario agregar el reset pasword. Por lo que queda pendiente para realizar en la siguiente iteracion.
+
