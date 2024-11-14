@@ -45,7 +45,7 @@ Se generó un inicio de catálogo de casos de uso
 |  CU-01        |       CRUD Estudiante           |
 |  CU-02        |       CRUD Bibliotecario        |
 |  CU-03        |       CRUD Libro                |
-| CU-04         | Realizar Prestamos de libro     |
+| CU-04         | Prestar Libro     |
 | CU-05         | Devolver Libro                  |
 | CU-06        | Generar informe                 |
 
@@ -97,4 +97,19 @@ Se realizao la presentacion de los avances realizados durante la iteracion a el 
 El bibliotecario al realizar las pruebas nos indico que la funcionalidad que se le habia dado se le hizo correcta y facil de utilizar, sin embargo
 el bibliotecario nos indico que nuestro sistema tenia un elemento faltante y que no hemos considerado que es el poder cambiar su password en caso de que se le haya olvidado.
 Al verificar nos dimos cuenta que era verdad y que es necesario agregar el reset pasword. Por lo que queda pendiente para realizar en la siguiente iteracion.
+
+
+- Planificación de iteración 2
+En base a la retroalimentación obtenida, se ajustan los requisitos. Se selecciona para Esta iteracion la gestion de libros.
+Se desglosa en un subconjunto de funcionalidades, como Prestar Libro y Devolver Libro. Ademas de que se realiza el cambio de contraseña sealado en la iteracion anterior.
+Devido a que el tiempo de entrega se ha reducido, el tiempo entre iteraciones tambien se a a reducir a solo un lapso de 2 semanas.
+
+- Desarrollo de iteración 2
+Durante la primera mitad de semana, se desarrolla una descripción más detallada del caso de uso para el Prestar Libro y Devolver Libro y se realizan las correcciones de la retroalimentación de la iteración anterior agregando la funcionalidad para recuperar o cambiar contraseña.
+Después del modelado y descripción, se debería empezar a desarrollar el código, en el lapso de una semana, usando como guía la descripción de caso de uso obtenida en la primera mitad de semana. Además se deben realizar pruebas de integración, para asegurarse de que funcione correctamente.
+
+- Revisión y ajuste
+Para los dias restantes, se revisa si se cumplieron los objetivos planteados, para la iteración. Si no es posible, se reduce el alcance, moviendo algunas funcionalidades a la siguiente iteración.
+Se realiza una demostración del sistema al bibliotecario para recibir retroalimentación y conocer si ya se cumplieron con las observaciones de la tercera iteración.
+
 
