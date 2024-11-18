@@ -112,4 +112,10 @@ Después del modelado y descripción, se debería empezar a desarrollar el códi
 Para los dias restantes, se revisa si se cumplieron los objetivos planteados, para la iteración. Si no es posible, se reduce el alcance, moviendo algunas funcionalidades a la siguiente iteración.
 Se realiza una demostración del sistema al bibliotecario para recibir retroalimentación y conocer si ya se cumplieron con las observaciones de la tercera iteración.
 
+---
+18 Noveimbre 2024
 
+Se realizaron la descripcion de los CU-05 Y CU-06, la descripcion se encuentra en la hoja de casos de uso.
+
+Artefactos obtenidos para el proceso de elaboracion
+[Hoja con los casos de uso](https://docs.google.com/document/d/1AWval-TtFqC5Wu3j3r3lXO2FV17zrWqh0oRDB_2BRrk/edit?usp=sharing)
