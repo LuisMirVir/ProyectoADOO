@@ -119,3 +119,5 @@ Se realizaron la descripcion de los CU-05 Y CU-06, la descripcion se encuentra e
 
 Artefactos obtenidos para el proceso de elaboracion
 [Hoja con los casos de uso](https://docs.google.com/document/d/1AWval-TtFqC5Wu3j3r3lXO2FV17zrWqh0oRDB_2BRrk/edit?usp=sharing)
+
+Al realizar la descripción de los CU nos dimos cuenta que era necesario agregar otro atributo a el usuario estudiante con la finalidad de utilizarlo como puntaje para conocer si puede o no pedir prestamos de libros, por lo que se actualizara su diagrama añadiendo este nuevo atributo.
