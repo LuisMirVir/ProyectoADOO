@@ -128,3 +128,14 @@ Al realizar la descripción de los CU nos dimos cuenta que era necesario agregar
 En base al desarrollo de los casos de uso, en el siguiente documento se va a realizar la especificacion suplementaria parcial de los otros requisitos.
 
 [Hoja con especificaciones suplementaria](https://docs.google.com/document/d/1x2daMq7bGKFJHFM6ETxRxbyhaiAACglqJNOOdYd0FfE/edit?usp=sharing)
+
+---
+26 Noviembre 2024
+
+Se realizo una seegunda revision de la vision que ya se habia desarrolado, tomando en cuenta las indicaciones de el libro. 
+
+Para encontrar la primera version de la vision ir a 
+[Inception del proyecto](https://docs.google.com/document/d/1XEQQfUm2zQGOCbRWLspc9hInDOv21CmQQpK9UiW-opE/edit?usp=sharing)
+
+La nueva version de la vision se va a desarrollar en la siguiente parte
+[Hoja con especificaciones suplementaria](https://docs.google.com/document/d/1x2daMq7bGKFJHFM6ETxRxbyhaiAACglqJNOOdYd0FfE/edit?usp=sharing)
