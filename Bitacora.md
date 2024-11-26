@@ -121,3 +121,10 @@ Artefactos obtenidos para el proceso de elaboracion
 [Hoja con los casos de uso](https://docs.google.com/document/d/1AWval-TtFqC5Wu3j3r3lXO2FV17zrWqh0oRDB_2BRrk/edit?usp=sharing)
 
 Al realizar la descripción de los CU nos dimos cuenta que era necesario agregar otro atributo a el usuario estudiante con la finalidad de utilizarlo como puntaje para conocer si puede o no pedir prestamos de libros, por lo que se actualizara su diagrama añadiendo este nuevo atributo.
+
+---
+25 Noviembre 2024
+
+En base al desarrollo de los casos de uso, en el siguiente documento se va a realizar la especificacion suplementaria parcial de los otros requisitos.
+
+[Hoja con especificaciones suplementaria](https://docs.google.com/document/d/1x2daMq7bGKFJHFM6ETxRxbyhaiAACglqJNOOdYd0FfE/edit?usp=sharing)
