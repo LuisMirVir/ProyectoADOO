@@ -132,10 +132,20 @@ En base al desarrollo de los casos de uso, en el siguiente documento se va a rea
 ---
 26 Noviembre 2024
 
-Se realizo una seegunda revision de la vision que ya se habia desarrolado, tomando en cuenta las indicaciones de el libro. 
+Se realizo una segunda revision de la vision que ya se habia desarrolado, tomando en cuenta las indicaciones de el libro. 
 
 Para encontrar la primera version de la vision ir a 
 [Inception del proyecto](https://docs.google.com/document/d/1XEQQfUm2zQGOCbRWLspc9hInDOv21CmQQpK9UiW-opE/edit?usp=sharing)
 
 La nueva version de la vision se va a desarrollar en la siguiente parte
 [Hoja con especificaciones suplementaria](https://docs.google.com/document/d/1x2daMq7bGKFJHFM6ETxRxbyhaiAACglqJNOOdYd0FfE/edit?usp=sharing)
+
+---
+27 Noviembre 2024
+
+Se realizo la descripcion de el glosario y de las reglas de negocio, para encontrar esta informacion se debe ir a la siguiente liga
+
+[Hoja con especificaciones suplementaria](https://docs.google.com/document/d/1x2daMq7bGKFJHFM6ETxRxbyhaiAACglqJNOOdYd0FfE/edit?usp=sharing)
+
+
+
