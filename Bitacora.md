@@ -115,7 +115,7 @@ Se realiza una demostración del sistema al bibliotecario para recibir retroalim
 ---
 18 Noveimbre 2024
 
-Se realizaron la descripcion de los CU-05 Y CU-06, la descripcion se encuentra en la hoja de casos de uso.
+Se realizaron la descripcion de los CU-04 Y CU-05, la descripcion se encuentra en la hoja de casos de uso.
 
 Artefactos obtenidos para el proceso de elaboracion
 [Hoja con los casos de uso](https://docs.google.com/document/d/1AWval-TtFqC5Wu3j3r3lXO2FV17zrWqh0oRDB_2BRrk/edit?usp=sharing)
@@ -152,6 +152,9 @@ Se realizo la descripcion de el glosario y de las reglas de negocio, para encont
 
 Como en un principio se utilizao el recurso de documnetos de google para realizar los artefactos de las entregas debido a que en el se puede visualizar de manera similar las versiones y modificaciones que se le han hecho a los documnetos en base a su historial, se decidio usar este recurso, sin embargo, con la finalidad de que se muestre de mejor manera este propocito se decidio realizar una carpeta dentro de el repositario y agregar diferentes versiones de los documnetos los cuales fueron evolucionando de manera iterativa. Si se desea ver este proceso se debe ver el historial de cambios de los documentos de google docs, sin embargo si se desea vusualizar este proceso de una manera mas sencilla justamente se va a subir estos documentos con las diferentes versiones que se han realizado con el fin de que se muestre mas facilmente este proceso.
 
-
+---
+3 Diciembre 2024
+al ya no ajustar de tiempo para la planeacion de la 4ta y ultima iteracion se procesio a realizar unicamente la descripcion de el CU y se anexo a los otros CU de la hoja
+[Hoja con los casos de uso](https://docs.google.com/document/d/1AWval-TtFqC5Wu3j3r3lXO2FV17zrWqh0oRDB_2BRrk/edit?usp=sharing)
 
 
