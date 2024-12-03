@@ -1,0 +1,4 @@
+Este archivo solamente está para indicar el porqué se ha creado y subido esta carpeta hasta este motivo, y el motivo recae en que se utilizó la herramienta de 
+Google Docs para realizar los archivos en donde en ella se almacena un historial de versiones, pero con el final de que quede un poco más claro este proceso, en esta carpeta se va a 
+mostrar una simulación de como hubiera sido si no se hubiera usado esta herramienta y 
+se hubiera hecho usando Word y subiendo las versiones generadas, es decir, sin que se pueda conocer el historial como el Google Docs.
