@@ -47,7 +47,7 @@ Se generó un inicio de catálogo de casos de uso
 |  CU-03        |       CRUD Libro                |
 | CU-04         | Prestar Libro     |
 | CU-05         | Devolver Libro                  |
-| CU-06        | Generar informe                 |
+| CU-06        | Generar Reporte                 |
 
 ---
 6 Octubre 2024
